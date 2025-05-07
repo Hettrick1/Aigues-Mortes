@@ -163,7 +163,7 @@ Maintenant que le merge à été fait, tu n'a plus qu'a cliquer sur `Delete bran
 # 🇬🇧 `English`
 
 
-# 🏹 GitHub user guide for the ghost and goblins remake! 🏹
+# 🏹 GitHub user guide for the Aigues-Mortes! 🏹
 
 ## 🎯 Objectives
 Understanding the basics of GitHub
